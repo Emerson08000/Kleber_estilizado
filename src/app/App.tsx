@@ -40,9 +40,9 @@ export default function App() {
     },
     {
       name: 'Spotify',
-      icon: Music,
-      url: 'https://open.spotify.com/intl-pt/artist/2iaKDE7EZBc0RIjYoGYTFq?si=QEWtDZR0Sf6FwBQOkNUy4A',
-      color: 'hover:bg-green-500'
+      icon: Disc3,
+      url: 'https://open.spotify.com/intl-pt/artist/2iaKDE7EZBc0RIjYoGYTFq?si=p00Vet2ITqGxnRBIy8RqXQ',
+      color: 'hover:bg-green-600'
     }
   ];
 
