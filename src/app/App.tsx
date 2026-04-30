@@ -45,18 +45,7 @@ export default function App() {
       color: 'hover:bg-green-600'
     }
   ];
-
-  const musicas = [
-    {
-      titulo: 'Música 1',
-      videoId: 'xo5jekRGl-s'
-    },
-    {
-</a>
-    }
-  ];
-
-  const musicas = [
+ const musicas = [
     {
       titulo: 'Música 1',
       videoId: 'xo5jekRGl-s'
