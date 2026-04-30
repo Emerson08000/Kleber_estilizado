@@ -37,6 +37,22 @@ export default function App() {
       icon: MessageCircle,
       url: 'https://wa.me/5582994307234',
       color: 'hover:bg-green-500'
+    },
+    {
+      name: 'Spotify',
+      icon: Music,
+      url: 'https://open.spotify.com/intl-pt/artist/2iaKDE7EZBc0RIjYoGYTFq?si=QEWtDZR0Sf6FwBQOkNUy4A',
+      color: 'hover:bg-green-500'
+    }
+  ];
+
+  const musicas = [
+    {
+      titulo: 'Música 1',
+      videoId: 'xo5jekRGl-s'
+    },
+    {
+</a>
     }
   ];
 
