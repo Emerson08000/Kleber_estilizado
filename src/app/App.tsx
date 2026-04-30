@@ -1,4 +1,4 @@
-import { Youtube, Instagram, MessageCircle, Music, Play, Users, Heart, Award, Calendar, MapPin, Mail, Send } from 'lucide-react';
+import { Youtube, Instagram, MessageCircle, Music, Play, Users, Heart, Award, Calendar, MapPin, Mail, Send,Disc3 } from 'lucide-react';
 import { useState } from 'react';
 import principalImg from '../imports/WhatsApp_Image_2026-04-28_at_21.40.08.jpeg';
 import fotoSobreMim from '../imports/WhatsApp_Image_2026-04-28_at_21.37.54_(1)-1.jpeg';
