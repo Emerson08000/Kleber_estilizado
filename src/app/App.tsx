@@ -255,9 +255,11 @@ export default function App() {
                     </div>
                   </div>
                 </div>
+                {false && (
                 <button className="px-4 sm:px-6 py-2 sm:py-3 bg-gradient-to-r from-red-600 to-red-800 text-white rounded-full hover:shadow-lg hover:shadow-red-500/50 transition-all duration-300 text-sm sm:text-base w-full md:w-auto">
                   Comprar Ingresso
                 </button>
+                )}
               </div>
             </div>
           ))}
