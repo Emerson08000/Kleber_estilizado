@@ -69,9 +69,9 @@ export default function App() {
 
   const shows = [
     {
-      data: '2 Mai 2026, 22:30H ',
-      local: 'Boteco cervejeiro',
-      cidade: 'Maceió,AL'
+      data: 'A decidir ',
+      local: 'A decidir',
+      cidade: 'A decidir'
     },
     {
       data: 'A decidir',
